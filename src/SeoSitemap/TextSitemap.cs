@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SeoSocial.Sitemap
+namespace SeoSitemap.Sitemap
 {
     /// <summary>
     /// https://support.google.com/webmasters/answer/75712?hl=pt-BR&ref_topic=4581190

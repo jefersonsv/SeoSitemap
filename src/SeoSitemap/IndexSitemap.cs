@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Xml.Linq;
 
-namespace SeoSocial.Sitemap
+namespace SeoSitemap.Sitemap
 {
     class SiteMap
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace SeoSocial
+namespace SeoSitemap
 {
     internal class StringWriterUtf8 : StringWriter
     {
