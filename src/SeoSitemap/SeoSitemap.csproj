@@ -10,6 +10,7 @@
     <PackageProjectUrl>https://github.com/jefersonsv/SeoSitemap</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jefersonsv/SeoSitemap</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
