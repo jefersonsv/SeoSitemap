@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Jeferson Tenorio</Authors>
     <Company></Company>
-    <Description>Generate a site map (or sitemap) that is a list of pages of a web site</Description>
+    <Description>Generate a site map (or sitemap) that is a list of pages of a web site.</Description>
     <PackageLicenseUrl>https://opensource.org/licenses/mit-license.php</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/jefersonsv/SeoSitemap</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jefersonsv/SeoSitemap</RepositoryUrl>
